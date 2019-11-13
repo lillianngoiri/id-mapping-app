@@ -3,3 +3,10 @@ h1{
   font-size:22px;
 
 }
+.form-group {
+    color: orangered;
+}
+.jumbotron{
+    background: url(../images/dark.jpg );
+    color: white;
+}
