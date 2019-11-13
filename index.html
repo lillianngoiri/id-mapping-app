@@ -21,9 +21,13 @@
     <div class="container">
       <div class="row">
         <div class="jumbotron">
+
             <h2>ID MAPPING</h2>
 
               <form><!--Form start -->
+                <!--Add profile image-->
+                <input type='file' onchange="readURL(this);" />
+              <img id="blah" src="http://placehold.it/180" alt="your image" />
                <div class="form-group">
         <label for="first name">First Name:</label>   <!--First name -->
                   <input id="first name" class="form-control" type="text">
@@ -49,6 +53,9 @@
                  <input type="radio" value="male" name="gender"  >Male
                  <input type="radio" value="female" name="gender" >Female
                </div>
+
+
+
                <button type="submit" id="btn" class="btn btn-dark"> submit </button> <!--button submit -->
              </form>   <!--Form End -->
             </div>
