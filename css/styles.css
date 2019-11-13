@@ -19,6 +19,7 @@ background:#ffffff;}
 
 .jumbotron {
     background: url(../images/dark.jpg) ;
+    font-family: 'Big Shoulders Text', cursive;
 }
 .form-group {
     color: orangered;
