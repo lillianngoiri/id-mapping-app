@@ -11,7 +11,7 @@ function readURL(input) {
                reader.readAsDataURL(input.files[0]);
            }
        }
-
+//Bussiness Logic
 
     //function for capturing user data and generating the student id
 $(document).ready(
@@ -25,7 +25,7 @@ $(document).ready(
                 var course = $("#course").val();
                 var gender = $("#gender input:checked").val();
 
-                alert(gender);
+                alert(admNo);
             }
         )
     }
