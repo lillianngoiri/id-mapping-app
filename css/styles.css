@@ -16,3 +16,16 @@ img{
 input[type=file]{
 padding:10px;
 background:#ffffff;}
+
+.jumbotron {
+    background: url(../images/dark.jpg) ;
+}
+.form-group {
+    color: orangered;
+}
+.color{
+    color: white;
+}
+.gnd{
+    : yellow;
+}
