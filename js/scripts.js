@@ -19,14 +19,31 @@ $(document).ready(
         $("#create").click(
             function(){
                 var fName = $("#first-name").val();
-                var lName= $("#last-name").val();
+                var lName= $("#second-name").val();
                 var admNo= $("#adm-no").val();
                 var idNo = $("#id-no").val();
                 var course = $("#course").val();
                 var gender = $("#gender input:checked").val();
+                // alert(fName);
+                // alert(lName)
+                // alert(admNo)
+                // alert(idNo)
+                // alert(course)
+                // alert(gender)
 
-                alert(admNo);
+
+                $("#names").text(fName+"       "+lName);
+                $("#adm-no").text(admNo);
+                $("#id-no").text(idNo);
+                $("#course").text(course);
+                $("#gender").text(gender);
+
+               
+                
+
             }
         )
+        preventdefault();
     }
+
 )
