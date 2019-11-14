@@ -29,13 +29,14 @@
 - The project is live on github pages at : https://lillianngoiri.github.io/id-mapping-app/
 ## Technology Used
 - HTML.
-- CSS.
-- JAVASCRIPT.
-- jQuery
+- CSS (bootstrap)
+- JAVASCRIPT (jQuery)
+
 ## Contact information
-- 0702 004 661
-- 0707 551 172
-- Email:lillianngoiri67@gmail.com
+- Email: frankkamala@gmail.com
+- Email: lillianngoiri67@gmail.com
+- Email: japhethmwania99@gmail.com
+
 
 
 ## Lincese
