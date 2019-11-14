@@ -1,10 +1,14 @@
-# ID MAPPING APP
 ## Project Name
-- YAMMY PIZZA INN
+# ID MAPPING APP
 ## Project Description 
-- The project consists of a website that has a landing page that welcomes you to Yammy Pizza Inn. On the landing page there are navigation bars at the very top of the page, when you click on them they lead you to the respective page that is on the menu page and that of contacts. On the menu page, is where you find the menu that is inform of a form and you get to select the kind of pizza you want according to size, crust and toppings and one has a choice to buy or order one or more pizza. Bellow there is a form that one is ecpected to fill in indicating there names, phone number and location to where the pizza will be delivered to in case of delivery.
+- This is a web app crafted to help solve mismatches in Identification Card details .The web app allows students to add in the relevant text inputs ie(names ,course details). Students then upload the images to be printed on the IDs.
+
 ## Authors Name.
+- FRANCIS KAMALA
+- EVLIN OMONCHI
 - LILLIAN NGOIRI
+- JAPHETH MWANIA
+- 
 ## BDD
 ![pic](images/pic.png)
 - At the home page you will just click on the our menu bar and it will take you to our favorite options of pizza.
@@ -22,7 +26,7 @@
 - You need to have a github account so that you can deploy the project and get a live link.
 - You need to have have data connection so that the project can function well.
 ## Github link 
-- The project is live on github pages at : 
+- The project is live on github pages at : https://lillianngoiri.github.io/id-mapping-app/
 ## Technology Used
 - HTML.
 - CSS.
