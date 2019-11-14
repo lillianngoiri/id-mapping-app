@@ -14,7 +14,7 @@
 
 
 ## BDD
-![ID](images.idpng)
+![ID](images/id.png)
 - On the landing page one is expected to fill in their information on the form and upload there image to which they want it to appear on their school ID card. After that one is expected to click on the submition button and the information entered will upload and appear on the right side.
 
 |Inputs             | Description                             |
