@@ -1,45 +1,52 @@
-## Project Name
-# ID MAPPING APP
-## Project Description 
+# PROJECT NAME
+## ID MAPPING APP
+
+
+# PROJECT DESCRIPTION 
 - This is a web app crafted to help solve mismatches in Identification Card details .The web app allows students to add in the relevant text inputs ie(names ,course details). Students then upload the images to be printed on the IDs.
 
-## Authors Name.
+
+## AUTHOR'S NAME.
 - FRANCIS KAMALA
 - EVLIN OMONCHI
 - LILLIAN NGOIRI
 - JAPHETH MWANIA
-- 
+
+
 ## BDD
-![pic](images/pic.png)
-- At the home page you will just click on the our menu bar and it will take you to our favorite options of pizza.
-![yes](images/yes.png)
-- At the menu you can select the size, toppings and the crust and the checkout to get the total.
+![ID](images.idpng)
+- On the landing page one is expected to fill in their information on the form and upload there image to which they want it to appear on their school ID card. After that one is expected to click on the submition button and the information entered will upload and appear on the right side.
 
-|Inputs       | Description                             |
-|-------------|-----------------------------------------|
-|Name         | Enter your name.                        |
-|Phone number | Enter your phone number.                |
-|Location     | Enter your location                     |
-|Menu         | Select the options you want             | 
+|Inputs             | Description                             |
+|-------------------|-----------------------------------------|
+|Name               | Enter your name.                        |
+|Admision number    | Enter your admision number.             |
+|Course name        | Enter your course name                  |
+|National ID No     | Enter your national ID No               |
+|Gender             | Select your gender                      |
 
-## Setup Instruction
-- You need to have a github account so that you can deploy the project and get a live link.
-- You need to have have data connection so that the project can function well.
-## Github link 
-- The project is live on github pages at : https://lillianngoiri.github.io/id-mapping-app/
-## Technology Used
+
+## SETUP INSTRUCTION
+`git clone https://github.com/Jeffacy99/id-mapping-app.git`
+
+
+## GITHUB LINK
+- The project is live on github pages at : https://github.com/Jeffacy99/id-mapping-app.git
+
+
+## TECHNOLOGIES USED
 - HTML.
 - CSS (bootstrap)
 - JAVASCRIPT (jQuery)
 
-## Contact information
+## CONTACT INFORMATION
 - Email: frankkamala@gmail.com
 - Email: lillianngoiri67@gmail.com
 - Email: japhethmwania99@gmail.com
+- Email: omoshthegeek@gmail.com
 
 
-
-## Lincese
+## LICENSE
 
 The MIT License
 
