@@ -17,7 +17,7 @@ function readURL(input) {
 $(document).ready(
     function(){
         $("#create").click(
-            function(){
+            function(e){
                 var fName = $("#first-name").val();
                 var lName= $("#second-name").val();
                 var admNo= $("#adm-no").val();
@@ -33,17 +33,17 @@ $(document).ready(
 
 
                 $("#names").text(fName+"       "+lName);
-                $("#adm-no").text(admNo);
-                $("#id-no").text(idNo);
-                $("#course").text(course);
-                $("#gender").text(gender);
+                $("#admno").text(admNo);
+                $("#idno").text(idNo);
+                $("#course1").text(course);
+                $("#gender1").text(gender);
 
                
-                
+                e.preventDefault();
 
             }
         )
-        preventdefault();
+        
     }
 
 )
