@@ -1,4 +1,4 @@
-// function for displaing image 
+// function for displaing image
 function readURL(input) {
            if (input.files && input.files[0]) {
                var reader = new FileReader();
@@ -17,7 +17,7 @@ function readURL(input) {
 $(document).ready(
     function(){
         $("#create").click(
-            function(e){
+            function(){
                 var fName = $("#first-name").val();
                 var lName= $("#second-name").val();
                 var admNo= $("#adm-no").val();
@@ -31,19 +31,19 @@ $(document).ready(
                 // alert(course)
                 // alert(gender)
 
-
+                  //output details
                 $("#names").text(fName+"       "+lName);
-                $("#admno").text(admNo);
-                $("#idno").text(idNo);
-                $("#course1").text(course);
-                $("#gender1").text(gender);
+                $("#adm-no").text(admNo);
+                $("#id-no").text(idNo);
+                $("#course").text(course);
+                $("#gender").text(gender);
 
-               
-                e.preventDefault();
+
+
 
             }
         )
-        
+        preventdefault();
     }
 
 )
